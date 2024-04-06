@@ -2,7 +2,7 @@
 - 👀 I’m interested in MACHINE LEARNING, Competetive coding, Data Structures  
 - 🌱 I’m currently learning Python, C, JavaScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me a.rhmanmirza20@gmail.com
+- 📫 How to reach me a.rahmanmirza20@gmail.com
 - 😄 Pronouns: His/Him
 - ⚡ Fun fact: I like to code :smile
 
