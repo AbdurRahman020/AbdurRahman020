@@ -1,18 +1,16 @@
-# Abdur Rahman  
+# Abdur Rahman
 
-## Introduction  
-I am an Electrical Engineering student with strong interests in **Artificial Intelligence, Competitive Programming, Machine Learning Mathematics, and Computer Architecture**. I actively participate in AI hackathons and problem-solving competitions, while also deepening my theoretical foundation in mathematics and algorithms. My long-term goal is to pursue advanced research opportunities at the graduate level.  
+## Introduction
+I am an Electrical Engineering student aspiring to specialize in **FPGA design and verification**. I'm actively learning SystemVerilog and exploring the intersection of hardware design and AI acceleration. My goal is to build a career in FPGA engineering, focusing on AI hardware implementation and verification.
 
-## Skills & Tools  
-- **Programming Languages:** Python, C, C++, MATLAB  
-- **Core Interests:** Artificial Intelligence, Machine Learning, Algorithms, Computer Architecture  
-- **Tools & Environments:** Git, Linux/Ubuntu, Vim, Jupyter  
+## Skills & Tools
+- **Hardware Design & Verification:** SystemVerilog, FPGA
+- **Programming Languages:** Python, C, C++, MATLAB
+- **Development Tools:** Git, Linux/Ubuntu, Vim
+- **Problem Solving:** LeetCode (occasional practice)
 
-## Projects  
-*(Coming soon...)*  
-
-## Contact  
-- 📧 Email: [a.rahmanmirza20@gmail.com](mailto:a.rahmanmirza20@gmail.com) 
+## Contact
+- 📧 Email: [a.rahmanmirza20@gmail.com](mailto:a.rahmanmirza20@gmail.com)
 
 <!---
 AbdurRahman020/AbdurRahman020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
