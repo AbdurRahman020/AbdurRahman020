@@ -12,6 +12,7 @@ I am an Electrical Engineering student aspiring to specialize in **FPGA design a
 ## Contact
 - 📧 Email: [a.rahmanmirza20@gmail.com](mailto:a.rahmanmirza20@gmail.com)
 
+## Stats
 [![Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AbdurRahman020/?cardType=level-alternate&theme=github&fontFamily=&preferLogin=true)](https://git.io/awesome-stats-card)
 
 <!---
