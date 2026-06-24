@@ -1,7 +1,7 @@
 # Abdur Rahman
 
 ## Introduction
-I am an Electrical Engineering student aspiring to specialize in **FPGA design and verification**. I'm actively learning SystemVerilog and exploring the intersection of hardware design and AI acceleration. My goal is to build a career in FPGA engineering, focusing on AI hardware implementation and verification.
+I design and verify digital systems in SystemVerilog, targeting FPGA platforms including Nexys A7 and Basys3. My work spans RTL design, FSM/datapath architecture, UART protocols, and embedded C for RISC-V. Currently a Research Intern at MEDS Lab, UET Lahore.
 
 ## Skills & Tools
 - **Hardware Design & Verification:** SystemVerilog, FPGA
